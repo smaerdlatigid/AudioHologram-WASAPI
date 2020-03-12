@@ -591,10 +591,7 @@ VFXRenderer:
   m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  m_Materials: []
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -623,7 +620,7 @@ VisualEffect:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 223955484}
   m_Enabled: 1
-  m_Asset: {fileID: 8926484042661614526, guid: 304848ca25e13b54f97f2939896c41c6, type: 3}
+  m_Asset: {fileID: 0}
   m_InitialEventName: OnPlay
   m_InitialEventNameOverriden: 0
   m_StartSeed: 0
@@ -1108,7 +1105,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 329a80dfda2a3b947923e71a6a7ed377, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DefaultCursorVisible: 0
 --- !u!1 &404723698
 GameObject:
   m_ObjectHideFlags: 0
@@ -1438,7 +1434,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d58f2e180e6eba4489df8fcadfd5ebd9, type: 2}
+  - {fileID: 2100000, guid: 118e3f5327413464f94c49ab30817539, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2751,8 +2747,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0edaad4413ceac64fac1f26863c13c82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Audio: {fileID: 1219320853}
-  normalizedVolume: 0.1
 --- !u!1 &2015666383
 GameObject:
   m_ObjectHideFlags: 0
@@ -2967,9 +2961,7 @@ VFXRenderer:
   m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 0}
-  - {fileID: 0}
+  m_Materials: []
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2998,7 +2990,7 @@ VisualEffect:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2121945200}
   m_Enabled: 1
-  m_Asset: {fileID: 8926484042661614526, guid: 1b96a98193b7455409ebeb0daab14182, type: 3}
+  m_Asset: {fileID: 0}
   m_InitialEventName: OnPlay
   m_InitialEventNameOverriden: 0
   m_StartSeed: 0

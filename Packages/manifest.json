@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "com.fluvio.fx": "https://github.com/fluviofx/fluviofx.git",
     "com.unity.cinemachine": "2.3.5-preview.3",
     "com.unity.render-pipelines.high-definition": "7.1.8",
     "com.unity.textmeshpro": "2.0.1",
-    "com.unity.timeline": "1.2.10",
+    "com.unity.timeline": "1.2.12",
     "com.unity.ugui": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
@@ -37,11 +36,5 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  },
-  "lock": {
-    "com.fluvio.fx": {
-      "revision": "HEAD",
-      "hash": "a3f3d0ea2f6459795b22ca1c26733d6e0a85b965"
-    }
   }
 }
